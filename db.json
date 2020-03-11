@@ -1,0 +1,20 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "postCode": "E18 1BX",
+      "addressLine1": "Eastwood Close",
+      "buildingName": "Eastwood Close"
+    },
+    {
+      "id": 2,
+      "postCode": "W13 9DX",
+      "addressLine1": "Coldershaw Road"
+    },
+    {
+      "id": 3,
+      "postCode": "NW7 2NX",
+      "addressLine1": "Salcombe Gardens"
+    }
+  ]
+}
