@@ -1,20 +1,38 @@
 {
-  "addresses": [
-    {
-      "id": 1,
-      "postCode": "E18 1BX",
-      "addressLine1": "Eastwood Close",
-      "buildingName": "Eastwood Close"
-    },
-    {
-      "id": 2,
-      "postCode": "W13 9DX",
-      "addressLine1": "Coldershaw Road"
-    },
-    {
-      "id": 3,
-      "postCode": "NW7 2NX",
-      "addressLine1": "Salcombe Gardens"
-    }
-  ]
+  "addresses": {
+    "E18 1BX": [
+      {
+        "id": 1,
+        "postCode": "E18 1BX",
+        "address": "Flat 1, Orchard House, Eastwood Close",
+      },
+      {
+        "id": 2,
+        "postCode": "E18 1BX",
+        "address": "Flat 2, Orchard House, Eastwood Close",
+      },
+      {
+        "id": 3,
+        "postCode": "E18 1BX",
+        "address": "Flat 3, Orchard House, Eastwood Close",
+      }
+    ],
+    "W13 9DX": [
+      {
+        "id": 4,
+        "postCode": "W13 9DX",
+        "addressLine1": "2 Coldershaw Road"
+      },
+      {
+        "id": 5,
+        "postCode": "W13 9DX",
+        "addressLine1": "4 Coldershaw Road"
+      },
+      {
+        "id": 6,
+        "postCode": "W13 9DX",
+        "addressLine1": "6 Coldershaw Road"
+      }
+    ]
+  }
 }
