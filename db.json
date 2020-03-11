@@ -34,5 +34,22 @@
         "address": "6 Coldershaw Road"
       }
     ]
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Tony Start",
+      "userName": "Iron man"
+    },
+    {
+      "id": 2,
+      "fullName": "Thor Odinson",
+      "userName": "Thor"
+    },
+    {
+      "id": 3,
+      "fullName": "Stephen Strange",
+      "userName": "Doctor Strange"
+    }
+  ]
 }
