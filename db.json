@@ -54,48 +54,43 @@
   ],
   "articles": [
     {
-      document_id: "452428",
-      similarity: 0.91413,
-      title: "Adventures in Piano Building (medium.com)",
-      url:
-        "https://medium.com/@hackmancoltaire/adventures-in-piano-building-c3fe5fa0b56b",
-      published: "2014-12-24T12:00:01.000Z",
-      author: null,
-      image:
-        "https://d262ilb51hltx0.cloudfront.net/max/800/1*uTAT1bayI6ek6esb-BcZhg.jpeg",
-      thumbnail: "https://images.getnewsbot.com/452428.jpg",
-      summary: "Turning a mouse [...]",
-      source_name: "Hacker News",
-      source_slug: "hacker-news",
+      "document_id": "452428",
+      "similarity": 0.91413,
+      "title": "Adventures in Piano Building (medium.com)",
+      "url": "https://medium.com/@hackmancoltaire/adventures-in-piano-building-c3fe5fa0b56b",
+      "published": "2014-12-24T12:00:01.000Z",
+      "author": null,
+      "image": "https://d262ilb51hltx0.cloudfront.net/max/800/1*uTAT1bayI6ek6esb-BcZhg.jpeg",
+      "thumbnail": "https://images.getnewsbot.com/452428.jpg",
+      "summary": "Turning a mouse [...]",
+      "source_name": "Hacker News",
+      "source_slug": "hacker-news"
     },
     {
-      document_id: "820199",
-      similarity: 0.901011,
-      title: "How to create a handheld Linux terminal (n-o-d-e.net)",
-      url:
-        "http://n-o-d-e.net/post/107977286006/how-to-create-a-handheld-linux-terminal",
-      published: "2015-01-13T04:10:02.000Z",
-      author: null,
-      image: "http://i.imgur.com/02W1NlK.png",
-      thumbnail: "https://images.getnewsbot.com/820199.jpg",
-      summary: "Cram everything into [...]",
-      source_name: "Hacker News",
-      source_slug: "hacker-news",
+      "document_id": "820199",
+      "similarity": 0.901011,
+      "title": "How to create a handheld Linux terminal (n-o-d-e.net)",
+      "url": "http://n-o-d-e.net/post/107977286006/how-to-create-a-handheld-linux-terminal",
+      "published": "2015-01-13T04:10:02.000Z",
+      "author": null,
+      "image": "http://i.imgur.com/02W1NlK.png",
+      "thumbnail": "https://images.getnewsbot.com/820199.jpg",
+      "summary": "Cram everything into [...]",
+      "source_name": "Hacker News",
+      "source_slug": "hacker-news"
     },
     {
-      document_id: "1371617",
-      similarity: 0.874432,
-      title:
-        "Building Pulse and Bloom: An Interactive Biofeedback Installation (ofbrooklyn.com)",
-      url:
-        "http://www.ofbrooklyn.com/2014/09/6/building-pulse-bloom-biofeedback-burning-man-2014/",
-      published: "2015-01-28T10:20:01.000Z",
-      author: null,
-      image: null,
-      thumbnail: false,
-      summary: "// State: resting void [...]",
-      source_name: "Hacker News",
-      source_slug: "hacker-news",
-    },
+      "document_id": "1371617",
+      "similarity": 0.874432,
+      "title": "Building Pulse and Bloom: An Interactive Biofeedback Installation (ofbrooklyn.com)",
+      "url": "http://www.ofbrooklyn.com/2014/09/6/building-pulse-bloom-biofeedback-burning-man-2014/",
+      "published": "2015-01-28T10:20:01.000Z",
+      "author": null,
+      "image": null,
+      "thumbnail": false,
+      "summary": "// State: resting void [...]",
+      "source_name": "Hacker News",
+      "source_slug": "hacker-news"
+    }
   ]
 }
